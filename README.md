@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetramaaseri
-- 👀 I’m interested in Php Backend Development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Full Stack Development 
+- 🌱 I’m exploring ...
 
 <!---
 chetramaaseri/chetramaaseri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
